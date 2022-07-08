@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-template",
+  "version": "1.0.0",
+  "description": "The template I use for Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodbyepavlyi/expressjs-template.git"
+  },
+  "author": "goodbyepavlyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goodbyepavlyi/expressjs-template/issues"
+  },
+  "homepage": "https://github.com/goodbyepavlyi/expressjs-template#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
